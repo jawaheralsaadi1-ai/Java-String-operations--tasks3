@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task6SameEnd {
+public class Task6SumDigits {
     public static void main(String[] args) {
         Scanner inputScanner = new Scanner(System.in); // Set up the tool to read input from user
         while (true) {
